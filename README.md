@@ -1,5 +1,4 @@
-# oakflame7.github.io[castaway.html](https://github.com/user-attachments/files/30826182/castaway.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8">
